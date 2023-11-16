@@ -1,5 +1,6 @@
 # 2048-using-C
 Basic console application for 2048.
+
 *Inspiration - Day-dreams in my math class*
 
 > Feel free to suggest any changes.
