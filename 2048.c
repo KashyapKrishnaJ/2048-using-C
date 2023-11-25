@@ -1,3 +1,5 @@
+// This is a super cool program that replicates 2048 in a console window
+
 # include<stdio.h>
 # include<conio.h>
 # include<stdlib.h>
